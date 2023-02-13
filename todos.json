@@ -1,3 +1,6 @@
 {
-  "todos": []
+  "todos": [
+    { "id": 1, "name": "go home", "isDone": false },
+    { "id": 2, "name": "pet cats", "isDone": false }
+  ]
 }
